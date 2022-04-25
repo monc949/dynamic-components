@@ -12,7 +12,7 @@ const backgroundImg = {
   zIndex: 1
 };
 
-export default (props) => (
+export default () => (
   <aside className="cardB" style={backgroundImg}>
     <header className="cardB-header">
       <h1 className="cardB-title center">Guardians of the Galaxy</h1>

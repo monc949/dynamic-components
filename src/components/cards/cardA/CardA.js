@@ -15,7 +15,7 @@ const headerImg = {
   zIndex: 500
 };
 
-export default (props) => (
+export default () => (
   <aside className="cardA">
     <header className="cardA-header" style={headerImg}></header>
     <main className="cardA-body">
